@@ -20,7 +20,7 @@ $ docker run --rm -it -v $(pwd)/notebook:/work/notebook -p 8888:8888 pytorch-tut
 [I 07:40:39.375 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
 [I 07:40:39.898 NotebookApp] Serving notebooks from local directory: /work
 [I 07:40:39.898 NotebookApp] The Jupyter Notebook is running at:
-[I 07:40:39.898 NotebookApp] http://(acf1fcebbc77 or 127.0.0.1):8888/?token=02930a8506e6cef671eefe980c2dc6cb49e2a328726ede8c
+[I 07:40:39.898 NotebookApp] http://(acf1fcebbc77 or 127.0.0.1):8888/?token=********
 [I 07:40:39.898 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [W 07:40:39.911 NotebookApp] No web browser found: could not locate runnable browser.
 [C 07:40:39.911 NotebookApp] 
