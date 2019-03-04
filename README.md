@@ -12,7 +12,7 @@ $ docker build -t pytorch-turorial .
 
 2. run container
 ```
-$ docker run --rm -it -v $(pwd)/notebook:/work/notebook -p 8888:8888 pytorch-tutorial
+$ docker run --rm -it -v $(pwd):/work -p 8888:8888 pytorch-tutorial
 ```
 
 3. get token from log
